@@ -1,0 +1,13 @@
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\bin\Debug\netcoreapp3.1\TryCatchWork.exe
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\bin\Debug\netcoreapp3.1\TryCatchWork.deps.json
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\bin\Debug\netcoreapp3.1\TryCatchWork.runtimeconfig.json
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\bin\Debug\netcoreapp3.1\TryCatchWork.runtimeconfig.dev.json
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\bin\Debug\netcoreapp3.1\TryCatchWork.dll
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\bin\Debug\netcoreapp3.1\TryCatchWork.pdb
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\obj\Debug\netcoreapp3.1\TryCatchWork.csprojAssemblyReference.cache
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\obj\Debug\netcoreapp3.1\TryCatchWork.AssemblyInfoInputs.cache
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\obj\Debug\netcoreapp3.1\TryCatchWork.AssemblyInfo.cs
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\obj\Debug\netcoreapp3.1\TryCatchWork.csproj.CoreCompileInputs.cache
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\obj\Debug\netcoreapp3.1\TryCatchWork.dll
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\obj\Debug\netcoreapp3.1\TryCatchWork.pdb
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TryCatchWork\obj\Debug\netcoreapp3.1\TryCatchWork.genruntimeconfig.cache
