@@ -1,0 +1,13 @@
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.exe
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.deps.json
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.runtimeconfig.json
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.runtimeconfig.dev.json
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.dll
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\bin\Debug\netcoreapp3.1\TipDonusumleri.pdb
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.csprojAssemblyReference.cache
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.AssemblyInfoInputs.cache
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.AssemblyInfo.cs
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.dll
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.pdb
+C:\Users\Tarık Buğra\source\repos\TipDonusumleri\TipDonusumleri\obj\Debug\netcoreapp3.1\TipDonusumleri.genruntimeconfig.cache
